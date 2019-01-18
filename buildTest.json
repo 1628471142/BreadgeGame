@@ -1,0 +1,6 @@
+{
+	"bundle_id": "com.ShellAutoBuildTest.xflee",
+	"ip": "http://www.baidu.com",
+	"app_name": "自动打包测试",
+	"method": "ad-hoc"
+}
