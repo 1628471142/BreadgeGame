@@ -1,7 +1,7 @@
 {
 	"bundle_id": "com.ShellAutoBuildTest.xflee",
 	"customDomainName": "https://www.huya.com/",
-	"app_name": "自动打包测试2",
+	"app_name": "app2",
 	"method": "ad-hoc",
 	"cert_download_url":"https://github.com/1628471142/BreadgeGame/raw/master/ios_distribution.cer",
 	"provisioning_download_url":"https://github.com/1628471142/BreadgeGame/raw/master/ShellAutoBuildTest_Ad_Hoc.mobileprovision",
